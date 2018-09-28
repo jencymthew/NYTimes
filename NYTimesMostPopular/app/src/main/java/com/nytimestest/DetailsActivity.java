@@ -13,6 +13,7 @@ import android.widget.TextView;
  * Created by Jency Mathew on 28-09-2018.
  */
 
+ 
 public class DetailsActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
